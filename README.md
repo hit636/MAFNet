@@ -1,6 +1,6 @@
 
 
-This is an official implementation of [TS-UNet: A Multiscale U-Net Architecture for Long-Term Multivariate Time Series Forecasting ].
+This is an official implementation of [MAFNet: Multi-scale Active Fusion Network for Long-Term Time Series Forecasting].
 
 ### Prerequisites
 
@@ -53,7 +53,7 @@ If you find this repo useful, please cite our paper as follows:
 
 ```
 
-
+MAFNet: Multi-scale Active Fusion Network for Long-Term Time Series Forecasting
 ```
 
 ### Contact
